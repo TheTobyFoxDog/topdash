@@ -1,0 +1,3 @@
+<?
+echo "Server is running";
+?>
